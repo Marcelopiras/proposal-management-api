@@ -7,7 +7,7 @@ A aplicação foi construída com boas práticas de engenharia de software, util
 ## 🚀 Tecnologias Utilizadas
 
 * **Java 26**
-* **Spring Boot 3** (Web, Security, Data JPA)
+* **Spring Boot 4.1.1 (Web, Security, Data JPA)
 * **Spring Security** (Autenticação baseada em sessão com filtros customizados)
 * **MySQL** (Banco de dados relacional)
 * **Docker & Docker Compose** (Para subir o banco de dados facilmente)
